@@ -1,5 +1,3 @@
-### `npx fka`
-
 
 Hello, this is **Panna Das Aryan**
 
@@ -7,7 +5,6 @@ I'm a passionate **Software Engineering Student** living in **Sylhet**, at **[SU
 I'm interested in **open source development** and I wish build things on my GitHub profile (here).
 I'm learning : ***Flutter & Dart*
 
-  <summary>More...</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=PannaAryan&show_icons=true&count_private=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=PannaAryan&show_icons=true&count_private=true&theme=dark" />
 
 
