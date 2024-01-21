@@ -10,6 +10,8 @@ Software Engineering undergrad at IICT, SUST. Passionate about Web Development, 
 </div>
 
 
+<div align = "center">
+
 ### Github Stats
 
 
@@ -20,6 +22,9 @@ Software Engineering undergrad at IICT, SUST. Passionate about Web Development, 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PannaAryan&layout=compact&theme=dark&bg_color=0A0A0A" alt="Sajidul Kabir Top Languages"/>
 <br />
+
+</div>
+
 <br>
 
 ### Stack
