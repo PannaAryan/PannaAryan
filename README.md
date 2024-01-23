@@ -15,7 +15,7 @@ Software Engineering undergrad at IICT, SUST. Passionate about Web Development, 
 ### Github Stats
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sajidul-kabir&theme=radical&background=0A0A0A&stroke=CDB4DB&ring=CDB4DB&currStreakNum=D3D3D3&sideNums=D3D3D3&dates=CDB4DB)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PannaAryan&theme=radical&background=0A0A0A&stroke=CDB4DB&ring=CDB4DB&currStreakNum=D3D3D3&sideNums=D3D3D3&dates=CDB4DB)](https://git.io/streak-stats)
 <br />
 
 
