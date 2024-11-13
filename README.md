@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/panna-das-aryan)
 
 <div align = "center">
-Software Engineering undergrad at IICT, SUST. Passionate about Web Development, Problem Solving. Enjoys teamwork, learning new skills. Interested in System Design, Machine learning and artificial intelligence.
+Software Engineering undergrad at IICT, SUST. Intern Backend Developer at Tallykhata. Passionate about Backend Development, Problem Solving. Enjoys teamwork, learning new skills. Interested in System Design, Machine learning and artificial intelligence.
 </div>
 
 
