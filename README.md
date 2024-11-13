@@ -33,7 +33,7 @@ Software Engineering undergrad at IICT, SUST. Intern Backend Developer at Tallyk
 {
   "language": "Python", "javascript", "java", "c++", "c"
   "frontend": "HTML", "css", "JS"
-  "backend": "node", "express"
+  "backend": "Django", "node", "express"
   "database": "MySQL", "mongodb"
 }
 ```
